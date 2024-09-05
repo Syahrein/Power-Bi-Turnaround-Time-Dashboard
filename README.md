@@ -1,7 +1,7 @@
 # Power BI Dashboard - Company A Batch and Sample Turnaround Times
 
 ## Overview
-This repository contains a Power BI dashboard designed to track and visualize Company A’s sample and batch turnaround times (TAT). The dashboard provides insights into various stages of the sample processing lifecycle. It consists of three main pages:
+This Power BI dashboard was designed to track and visualize Company A’s sample and batch turnaround times (TAT). The dashboard provides insights into various stages of the sample processing lifecycle. It consists of three main pages:
 - **Overall TAT**
 - **Sample Status**
 - **Daily Statistics**
